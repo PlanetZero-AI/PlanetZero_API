@@ -44,9 +44,9 @@ Sign up today and receive **$5 in free credits** immediately!
 Check out our comprehensive API documentation to get started with integration.  
 📖 [Documentation](https://docs.planetzeroapi.com)
 
-### **3. Access the Dashboard**  
-Manage your account, monitor usage, and recharge your balance on our dashboard.  
-🛠️ [Dashboard](https://api.planetzeroapi.com/panel)
+### **3. Research & Startup Sponsorship program**  
+Get $100 if you are a researcher or you want to make some change with the power of AI.  
+🛠️ [Apply Now](https://forms.gle/FnAKVNTnjTkWE7L69)
 
 ### **4. Pricing Information**  
 Learn more about our **affordable pricing model**, including the 20% discount compared to OpenAI.  
@@ -68,7 +68,7 @@ The **PlanetZero API Sponsorship Program** is designed to support **researchers*
   - Access $100 credits to prototype and test your ideas.  
 
 ### **How to Apply?**  
-- Visit our sponsorship portal to submit your application.  
+- [Click here](https://forms.gle/FnAKVNTnjTkWE7L69) to submit your application.  
 - Approved applicants will receive **$100 credits** to use across PlanetZero API’s features.
 
 ---
@@ -94,15 +94,9 @@ The **PlanetZero API Sponsorship Program** is designed to support **researchers*
 ## **Community and Support** 💬
 
 Join our **Discord Community** to connect with like-minded developers, researchers, and innovators:  
-[Discord Invite Link](https://discord.gg/your-community-link)
+[Discord Invite Link]([https://discord.gg/your-community-link](https://discord.gg/jyQx7a2s))
 
 For any questions, feedback, or support, feel free to reach out to us via the **#support** channel or email us at **support@planetzeroapi.com**.  
-
----
-
-## **License** 📝
-
-PlanetZero API is proprietary software. By using the platform, you agree to our [Terms of Service](https://api.planetzeroapi.com/terms) and [Privacy Policy](https://api.planetzeroapi.com/privacy).  
 
 ---
 

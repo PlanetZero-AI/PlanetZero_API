@@ -94,7 +94,7 @@ The **PlanetZero API Sponsorship Program** is designed to support **researchers*
 ## **Community and Support** 💬
 
 Join our **Discord Community** to connect with like-minded developers, researchers, and innovators:  
-[Discord Invite Link]([https://discord.gg/your-community-link](https://discord.gg/jyQx7a2s))
+[Discord Invite Link](https://discord.gg/your-community-link](https://discord.gg/jyQx7a2s)
 
 For any questions, feedback, or support, feel free to reach out to us via the **#support** channel or email us at **support@planetzeroapi.com**.  
 
